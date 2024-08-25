@@ -28,6 +28,7 @@ Two different approaches to solving the time-dependent Schrodinger equation.
 
 ### 📓 [spring.ipynb](spring.ipynb)
 
+[---> x.com <---](https://x.com/arithmoquine/status/1791902061514162353)
 
 ## 🪄 Training a PINN to simulate a damped harmonic oscillator [->](./spring.ipynb#task-1-train-a-pinn-to-simulate-the-system)
 <img src="./pinn1.gif" alt="PINN 1" width="600">
